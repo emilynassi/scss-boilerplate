@@ -1,0 +1,28 @@
+{
+  "name": "scss-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "scss-builder"
+  },
+  "bin": {
+    "scss-builder": "./bin/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emilynassi/scss-boilerplate.git"
+  },
+  "author": "Emily Rosenkranz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emilynassi/scss-boilerplate/issues"
+  },
+  "homepage": "https://github.com/emilynassi/scss-boilerplate#readme",
+  "dependencies": {
+    "commander": "^5.1.0"
+  }
+}
