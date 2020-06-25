@@ -1,4 +1,4 @@
-const init = async () => {
+const run = async () => {
   const create = require('./lib/foldercreate')
   const fileCreate = require('./lib/filecreate')
   const structure = require('./lib/structure')
@@ -40,7 +40,7 @@ const init = async () => {
   initFunction();
 }
 
-init();
+run();
 
 
 
