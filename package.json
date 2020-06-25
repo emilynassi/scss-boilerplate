@@ -3,14 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "directories": {
-    "lib": "lib"
-  },
   "scripts": {
-    "test": "scss-builder"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "scss-builder": "./bin/index.js"
+    "scss-boilerplate": "./bin/index.js"
   },
   "repository": {
     "type": "git",
@@ -23,6 +20,6 @@
   },
   "homepage": "https://github.com/emilynassi/scss-boilerplate#readme",
   "dependencies": {
-    "commander": "^5.1.0"
+    "commander": "^4.1.1"
   }
 }
