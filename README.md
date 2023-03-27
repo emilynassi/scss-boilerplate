@@ -6,7 +6,7 @@ A simple command line application to build out a SCSS directory to make your sty
 
 ## Instructions for Use
 
-- Use `git clone` to clone this repo to whereever you want on your machine.
+- Use `git clone` to clone this repo to whereever you want on your machine .
 
 - Run the following command:
 
